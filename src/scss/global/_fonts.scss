@@ -1,5 +1,7 @@
 .h1 {
-  // font-family: $font;
+  font-family: $font;
+  font-size: rem(50px);
+  color: $white;
 }
 
 .h2 {
@@ -7,5 +9,7 @@
 }
 
 .paragraph {
-  // font-family: $font;
+  font-family: $font;
+  font-size: rem(20px);
+  color: $white;
 }

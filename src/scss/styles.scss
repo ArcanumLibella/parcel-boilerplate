@@ -19,5 +19,10 @@
 @import 'pages/_homepage.scss';
 
 body {
-  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: $gradient;
 }
